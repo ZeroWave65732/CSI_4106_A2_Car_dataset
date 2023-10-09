@@ -1,4 +1,4 @@
-Buying,Maintenance,Doors,Persons,Luggage Boot,Safety
+Buying,Maintenance,Doors,Persons,Luggage Boot,Safety,Class
 vhigh,vhigh,2,2,small,low,unacc
 vhigh,vhigh,2,2,small,med,unacc
 vhigh,vhigh,2,2,small,high,unacc
